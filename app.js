@@ -881,15 +881,15 @@
 // var birth_year=d.getFullYear();
 // document.write("Your age is: "+age+"<br>Your birth year is: "+(birth_year-age))
 // Task 10
-var d = new Date();
-var  Customer_Name=prompt("Enter Customer Name")
-var Current_Month=d.getMonth();
-var Number_of_units=410;
-var Charges_per_unit=16;
-var Net_Amount_Payable=Charges_per_unit*Number_of_units;
-var Late_Payment_Surcharge=350;
-var Gross_Amount_Payable =Net_Amount_Payable+Late_Payment_Surcharge;
-document.write("Customer Name: "+Customer_Name+"<br> Current Month: "+Current_Month+"<br>Number of units: "+Number_of_units+"<br>Charges per unit: "+Charges_per_unit+"<br>Net Amount Payable:"+Net_Amount_Payable+"<br>Late Payment Surcharge: "+Late_Payment_Surcharge+"<br> Gross Amount Payable (after Due Date): "+Gross_Amount_Payable)
+// var d = new Date();
+// var  Customer_Name=prompt("Enter Customer Name")
+// var Current_Month=d.getMonth();
+// var Number_of_units=410;
+// var Charges_per_unit=16;
+// var Net_Amount_Payable=Charges_per_unit*Number_of_units;
+// var Late_Payment_Surcharge=350;
+// var Gross_Amount_Payable =Net_Amount_Payable+Late_Payment_Surcharge;
+// document.write("Customer Name: "+Customer_Name+"<br> Current Month: "+Current_Month+"<br>Number of units: "+Number_of_units+"<br>Charges per unit: "+Charges_per_unit+"<br>Net Amount Payable:"+Net_Amount_Payable+"<br>Late Payment Surcharge: "+Late_Payment_Surcharge+"<br> Gross Amount Payable (after Due Date): "+Gross_Amount_Payable)
 
 
 
